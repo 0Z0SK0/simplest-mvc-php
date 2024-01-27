@@ -6,11 +6,6 @@
     An simplest PHP MVC framework
     <br/>
     <br/>
-    <a href="https://github.com/0Z0SK0/simplest-mvc-php"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/0Z0SK0/simplest-mvc-php">View Demo</a>
-    .
     <a href="https://github.com/0Z0SK0/simplest-mvc-php/issues">Report Bug</a>
     .
     <a href="https://github.com/0Z0SK0/simplest-mvc-php/issues">Request Feature</a>
