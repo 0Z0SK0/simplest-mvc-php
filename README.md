@@ -12,7 +12,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/0Z0SK0/simplest-mvc-php/total) ![Contributors](https://img.shields.io/github/contributors/0Z0SK0/simplest-mvc-php?color=dark-green) ![Issues](https://img.shields.io/github/issues/0Z0SK0/simplest-mvc-php) ![License](https://img.shields.io/github/license/0Z0SK0/simplest-mvc-php) 
+![Downloads](https://img.shields.io/github/downloads/0Z0SK0/simplest-mvc-php/total) ![Contributors](https://img.shields.io/github/contributors/0Z0SK0/simplest-mvc-php?color=dark-green) ![Issues](https://img.shields.io/github/issues/0Z0SK0/simplest-mvc-php)  ![License](https://img.shields.io/github/license/0Z0SK0/simplest-mvc-php) 
 
 ## Table Of Contents
 
